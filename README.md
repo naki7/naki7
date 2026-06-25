@@ -13,4 +13,4 @@
 
 | Project | Description | Technology |
 | ------- | ----------- | ---------- |
-| [A-Maze-ing](https://github.com/naki7/42-CommonCore/tree/d1c0ab5941f09de4fee681216e564da21edb6fb4/Milestone%202/A-Maze-ing) | Maze generator using Wilson's algorithm to create paths | Python, MLX,  |
+| [A-Maze-ing](https://github.com/naki7/42-CommonCore/tree/d1c0ab5941f09de4fee681216e564da21edb6fb4/Milestone%202/A-Maze-ing) | Maze generator using Wilson's algorithm to create paths | Python, MLX, Virtual Environments, Linux  |
