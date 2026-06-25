@@ -1,16 +1,16 @@
-## Hi there 👋
+![Banner full of otters](./Banner.jpeg)
 
-<!--
-**naki7/naki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Naki De Sousa Neves 🦦
 
-Here are some ideas to get you started:
+🏊 Focusing on 42 Porto projects\
+🦾 Interested in buiding embedded software to be used for 3D prosthetics\
+🧠 Love learning about mental health and neurodiversity\
+📳 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakidesousaneves/)\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ♉🇵🇹🇿🇦🎮🃏🪄🧶🪡🎭🎨🎧🎸🧬🦦🐕🐾🌃⛰️🧗🌈🌊❄️
+
+## Projects
+
+| Project | Description | Technology |
+| ------- | ----------- | ---------- |
+| [A-Maze-ing](https://github.com/naki7/42-CommonCore/tree/d1c0ab5941f09de4fee681216e564da21edb6fb4/Milestone%202/A-Maze-ing) | Maze generator using Wilson's algorithm to create paths | Python, MLX,  |
