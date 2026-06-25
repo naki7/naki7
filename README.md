@@ -5,7 +5,7 @@
 🏊 Focusing on 42 Porto projects\
 🦾 Interested in buiding embedded software to be used for 3D prosthetics\
 🧠 Love learning about mental health and neurodiversity\
-📳 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakidesousaneves/)\
+📳 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakidesousaneves/)
 
 ### ♉🇵🇹🇿🇦🎮🃏🪄🧶🪡🎭🎨🎧🎸🧬🦦🐕🐾🌃⛰️🧗🌈🌊❄️
 
