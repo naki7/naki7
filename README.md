@@ -14,3 +14,5 @@
 | Project | Description | Technology |
 | ------- | ----------- | ---------- |
 | [A-Maze-ing](https://github.com/naki7/42-CommonCore/tree/d1c0ab5941f09de4fee681216e564da21edb6fb4/Milestone%202/A-Maze-ing) | Maze generator using Wilson's algorithm to create paths | Python, MLX, Virtual Environments, Linux  |
+| [Codexion](https://github.com/naki7/42-CommonCore/tree/main/Milestone%203/Codexion) | C based Multi-Threading program that attemps to keep aliveness through starvation prevention techniques | C, Process Scheduling, Coffman's conditions, Starvation Prevention, Linux  |
+| [Fly-in](https://github.com/naki7/42-CommonCore/tree/main/Milestone%203/Fly-in) | Drone pathfinding through maps based on cost and priority constraints | Python, Pathfinding, A* Algorithm, Dijkstra's Algorithm, Pygame, Parsing, Error Handling, Linux  |
